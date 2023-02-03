@@ -1,0 +1,44 @@
+#myVideo {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+
+font-family: 'Nanum Gothic Coding', monospace;
+
+.rock-am{
+    color: rgb(3, 18, 91);
+}
+
+.alt{
+    color:rgb(101, 137, 244)
+}
+
+.alt-girl{
+    color:rgb(0, 156, 167)
+}
+
+.surf-rock{
+    color: rgb(61, 197, 238);
+}
+
+.rock{
+    color: rgb(0, 0, 255);
+}
+
+.pop-rap{
+    color: rgb(255, 70, 163);
+}
+
+  <li class="rock-am">Arctic Monkeys</li>
+  <li class="alt">The Last Shadow Puppets</li>
+  <li class="alt-girl">Alexandra Saviour</li>
+  <li class="surf-rock">Beach Boys</li>
+  <li class="rock">The Beatles</li>
+  <li class="pop-rap">Doja Cat</li>
