@@ -67,7 +67,7 @@ p {
     flex-direction: column;
     justify-content: space-evenly;
     flex-grow: 1;
-    gap: 60px;
+    gap: 100px;
 }
  
 #title-text {
@@ -101,8 +101,6 @@ p {
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
-    padding-top: 75px;
-    padding-bottom: 75px;
 }
  
 #crafted {
@@ -112,8 +110,6 @@ p {
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 #top-right {
