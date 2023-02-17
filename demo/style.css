@@ -1,0 +1,81 @@
+body {
+    background-color:  #FF7272;
+    font-family:  monospace;
+    padding: 50px;
+  }
+
+  /* If the browser window is smaller than 650px, the background color will change to black and the text to white: */
+@media (max-width: 650px) {
+  body {
+    background-color: black;
+    color:  white;
+    transition: .7s ease;
+  }
+}
+
+/* If the browser window is shorter than 650px, the background will turn orange */
+
+@media (max-height: 650px) {
+  body {
+    background-color: orange;
+  }
+}
+
+/* The body's font-size is smaller by default */
+body {
+  font-size: 16px;
+}
+
+/* Tablet breakpoint */
+@media (min-width: 768px) {
+  body {
+    font-size: 40px;
+  }
+}
+
+/* Desktop breakpoint */
+@media (min-width: 992px) {
+  body {
+    font-size: 50px;
+    transition: .7s ease-in-out;
+  }
+}
+
+/* Wide screen breakpoint */
+@media (min-width: 1200px) {
+  body {
+    font-size: 60px;
+  }
+}
+
+@media (min-width: 992px) {
+  h1 {
+    font-size: 4em;
+  }
+}
+
+@media (min-width: 992px) {
+  h2 {
+    font-size: 4em;
+  }
+}
+
+@media (max-width: 768px) {
+  p {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  p {
+    font-size: 16px;
+  }
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}

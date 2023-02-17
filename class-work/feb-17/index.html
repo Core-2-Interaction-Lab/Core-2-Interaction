@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Html Structure Analysis</title>
+
+    <!-- Adds: an internal stylesheet. -->
+    <style>
+      section { margin-top: 120px; }
+      #table-of-contents { margin: 80px 0; }
+      .flex {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Core 2 Interaction: Lab –&nbsp;<em>Week 2: HTML Structure Analysis</em></h1>
+    </header>
+    <section id="table-of-contents">
+      <ul>
+        <li><a href="#screenshot">Screenshot ↓</a></li>
+        <li><a href="#analysis">Analysis ↓</a></li>
+        <li><a href="#questions">Questions ↓</a></li>
+      </ul>
+    </section>
+    <section id="screenshot">
+      <h2>Screenshot</h2>
+        <img src="puzz.png" alt="lepuzz-site-screenshot">
+    </section>
+    <section id="analysis">
+      <h2>Analysis</h2>
+      <div class="flex">
+        <div>
+          <pre id="analysis--simplified-html">
+body
+    div class="header"
+            a href="lepuzzhome.html" img src="lepuzzlogo"
+            
+            svg
+                line 
+                x1="0.85" y1="0.85" x2="19.2443" y2="0.85" style="fill: none;stroke: #231f20;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.7000000000000002px">
+                line
+                line 
+                x1="0.85" y1="9.19" x2="19.2443" y2="0.85" style="fill: none;stroke: #231f20;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.7000000000000002px">
+                line
+                line 
+                x1="0.85" y1="17.35" x2="19.2443" y2="0.85" style="fill: none;stroke: #231f20;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.7000000000000002px">
+                line
+            svg
+    div
+
+    div class="main-content"
+            img src="product-image"
+
+            div class="product-deatails"
+                ol class="flickity-page-dots"
+                    li class="dot" aria-label="page-dot-1" li
+                    li class="dot" aria-label="page-dot-2" li
+                    li class="dot" aria-label="page-dot-3" li
+                    li class="dot" aria-label="page-dot-4" li
+                    li class="dot" aria-label="page-dot-5" li
+                ol
+            div
+    div
+body
+          </pre>
+
+        </div>
+        <div id="analysis--text">
+            <pre>
+- in the header they have an image of their logo which is centered and linked to their home page
+- for their hamburger bar, they use the svg tag and actually made each line themselves in code rather than using an image (which I would've been tempted to do because I'm hardwired to see elements like that as images)
+- in main content they have the main image of the product and then a slider below it, with is actually made up of an ordered list and list elements
+            </pre>
+      </div>
+      </div>
+    </section>
+    <section id="analysis--questions">
+      <h2>Questions</h2>
+      <ul>
+        <li>
+          what is an 'aria-label'
+        </li>
+         <li>
+            what is an svg for? why have they used svg for elements on a website they made themselves in css like the hamburger lines
+        </li>
+        <li>
+            why do they use an ordered list for the 'flickity' selectors?
+        </li>
+      </ul>
+    </section>
+  </body>
+</html>

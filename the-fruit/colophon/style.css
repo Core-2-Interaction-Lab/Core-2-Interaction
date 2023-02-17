@@ -1,3 +1,31 @@
+/* unvisited link */
+a:link {
+    color: black;
+    text-align: center;
+    display: block;
+}
+  
+  /* visited link */
+  a:visited {
+    color: black;
+    text-align: center;
+    display: block;
+}
+  
+  /* mouse over link */
+  a:hover {
+    color: rgba(0, 0, 0, 0.348);
+    text-align: center;
+    display: block;
+}
+  
+  /* selected link */
+  a:active {
+    color: black;
+    text-align: center;
+    display: block;
+}
+
 body {
     margin-top: 0px;
     font-family: 'IM FELL Great Primer';
@@ -18,74 +46,8 @@ p {
     display: inline-block;
 }
 
-#top-left {
-    font-size: 12px;
-    text-align: left;
-    padding-left: 5px;
-    padding-top: 10px;
-    display: block;
-    float: left;
-}
-
-#top-right {
-    font-size: 12px;
-    text-align: right;
-    padding-right: 5px;
-    padding-top: 10px;
-    display: block;
-    float: right;
-}
-
-#title-text {
-    font-size: 122px;
-    text-align: center;
-    display: block;
-}
-
-@media screen and (max-width: 475px) {
-    #title-text {
-    
-    font-size: 90px;
-    } 
-    }
-
-#mid-text {
-    padding-top: 500px;
-}
-
-#inspired {
-    font-size: 12px;
-    text-align: center;
-    margin-top: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 130px;
-}
-
-#typeset {
-    font-size: 12px;
-    text-align: center;
-    margin-top: 12px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 30px;
-    padding-top: 75px;
-    padding-bottom: 75px;
-}
-
-#crafted {
-    font-size: 12px;
-    text-align: center;
-    margin-top: 12px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 #footer {
-    font-size: 12px;
+    font-size: 0.75rem;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -96,30 +58,73 @@ p {
     padding-bottom: 10px;
 }
 
-/* unvisited link */
-a:link {
-    color: black;
+#top-right {
+    font-size: 0.75rem;
+    text-align: right;
+    padding-right: 5px;
+    padding-top: 10px;
+    display: block;
+    float: right;
+}
+
+#top-left {
+    font-size: 0.75rem;
+    text-align: left;
+    padding-left: 5px;
+    padding-top: 10px;
+    display: block;
+    float: right;
+}
+ 
+@media screen and (max-device-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+ 
+@media screen and (max-device-width: 475px) {
+    html {
+        font-size: 35px;
+    }
+}
+ 
+#title-text {
     text-align: center;
     display: block;
-  }
-  
-  /* visited link */
-  a:visited {
-    color: black;
+    font-size: 5.652rem;
+} 
+ 
+#mid-text {
+    padding-top: 31.25px;
+}
+ 
+#inspired {
+    font-size: 0.75rem;
     text-align: center;
-    display: block;
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: rgba(0, 0, 0, 0.348);
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 130px;
+}
+ 
+#typeset {
+    font-size: 0.75rem;
     text-align: center;
-    display: block;
-  }
-  
-  /* selected link */
-  a:active {
-    color: black;
+    margin-top: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+ 
+#crafted {
+    font-size: 0.75rem;
     text-align: center;
-    display: block;
-  }
+    margin-top: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
