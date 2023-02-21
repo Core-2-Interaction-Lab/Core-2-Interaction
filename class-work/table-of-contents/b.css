@@ -1,0 +1,33 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+.all-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#title {
+    text-transform: uppercase;
+}
+
+#subhead {
+    font-style: italic;
+    
+}
+
+#title1 {
+    
+}
+
+#toc {
+    font-style: italic;
+}
+
+#sec1 {
+    width: 200px;
+    border: 1px solid #2d2d2d;
+    height: fit-content;
+}

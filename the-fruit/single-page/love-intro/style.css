@@ -10,6 +10,9 @@ p{
     height: 81px;
     width: 490px;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     animation: fadeIn 2s;
 }
 

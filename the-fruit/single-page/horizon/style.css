@@ -11,6 +11,9 @@ p{
     width: 467px;
     text-align: center;
     animation: fadeIn 2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 @keyframes fadeIn {

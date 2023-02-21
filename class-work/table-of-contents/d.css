@@ -1,0 +1,52 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+#title {
+    font-weight: 700;
+}
+
+#subhead {
+    font-style: italic;
+    font-weight: 200;
+}
+
+#title1 {
+    font-weight: 700;
+}
+
+#toc {
+    font-weight: 700;
+    font-style: italic;
+}
+
+div {
+	/* background-color: tomato; */
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+	padding: 5px;
+}
+
+section {
+	/* background-color: gold; */
+    display: flex;
+    margin-top: 20px;
+	min-height: 120px;
+}
+
+section {
+
+}
+
+.all-text {
+    max-height: 120px;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+  }
