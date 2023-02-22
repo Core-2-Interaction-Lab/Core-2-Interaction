@@ -154,7 +154,7 @@ a:link {
     left: 23%;
     width: 50px;
     height: 30px;
-    opacity: 0%;
+    opacity: %;
 }
 
 #begin {
@@ -162,7 +162,7 @@ a:link {
     text-align: left;
     top: 118%;
     left: 78%;
-    /* font-size: 1em; */
+    font-size: 1em;
 }
 
 #beginsub {
@@ -171,5 +171,57 @@ a:link {
     left: 78%;
     width: 50px;
     height: 30px;
+    opacity: 50%;
+}
+
+#lesson {
+    position: absolute;
+    text-align: left;
+    top: 140%;
+    left: 10%;
+    font-size: 1.5em;
+}
+
+#lessonsub {
+    position: absolute;
+    top: 145%;
+    left: 10%;
+    width: 50px;
+    height: 30px;
     opacity: 0%;
 }
+
+#beautifully {
+    position: absolute;
+    text-align: left;
+    top: 196%;
+    left: 43%;
+    font-size: 1em;
+}
+
+#beautifullysub {
+    position: absolute;
+    top: 200%;
+    left: 43%;
+    width: 50px;
+    height: 30px;
+    opacity: 0%;
+}
+
+#semicolon {
+    position: absolute;
+    text-align: left;
+    top: 230%;
+    left: 87%;
+    font-size: 1em;
+}
+
+#semicolonsub {
+    position: absolute;
+    top: 234%;
+    left: 87%;
+    width: 50px;
+    height: 30px;
+    opacity: 0%;
+}
+
