@@ -57,6 +57,14 @@ a:link {
       padding-bottom: 1.25em;
   }
 
+  #directions {
+    text-align: center;
+    font-size: 1em;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
 #title-text {
     text-align: center;
     font-size: 3em;
