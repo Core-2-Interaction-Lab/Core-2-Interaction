@@ -52,6 +52,9 @@ a:link {
       position:absolute;
       top:1.25em;
       right:1.25em;
+      text-align: center;
+      top: 4000px;
+      padding-bottom: 1.25em;
   }
 
 #title-text {
@@ -62,26 +65,16 @@ a:link {
     transform: translate(-50%, -50%);
 } 
 
-/* p{
-    letter-spacing: 0.03em;
-    margin: 0;
-    position: absolute;
-    top: 40px;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    animation: fadeIn 2s;
-  } */
-
 #existence {
     position: absolute;
     text-align: left;
     top: 20%;
-    left: 10%;
+    left: 11.5%;
 }
 
 #existencesub {
     position: absolute;
-    top: 25%;
+    top: 24%;
     left: 11%;
     width: 50px;
     height: 30px;
@@ -92,93 +85,41 @@ a:link {
     position: absolute;
     text-align: left;
     top: 30%;
-    left: 70%;
+    left: 69.4%;
     font-size: 1.4em;
 }
 
 #possibilitysub {
     position: absolute;
-    top: 37%;
+    top: 35%;
     left: 70%;
     width: 50px;
     height: 30px;
     opacity: 0%;
-}
-
-#theatre {
-    position: absolute;
-    text-align: left;
-    top: 60%;
-    left: 50%;
-    font-size: 1em;
-}
-
-#theatresub {
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    width: 50px;
-    height: 30px;
-    opacity: 80%;
-    background-color: aqua;
 }
 
 #individual {
     position: absolute;
     text-align: left;
     top: 66%;
-    left: 90%;
+    left: 90.6%;
     font-size: 1em;
 }
 
 #individualsub {
     position: absolute;
-    top: 71%;
+    top: 70%;
     left: 90%;
     width: 50px;
     height: 30px;
     opacity: 0%;
 }
 
-#mind {
-    position: absolute;
-    text-align: left;
-    top: 93%;
-    left: 23%;
-    font-size: 1em;
-}
-
-#mindsub {
-    position: absolute;
-    top: 92%;
-    left: 23%;
-    width: 50px;
-    height: 30px;
-    opacity: %;
-}
-
-#begin {
-    position: absolute;
-    text-align: left;
-    top: 118%;
-    left: 78%;
-    font-size: 1em;
-}
-
-#beginsub {
-    position: absolute;
-    top: 112%;
-    left: 78%;
-    width: 50px;
-    height: 30px;
-    opacity: 50%;
-}
-
 #lesson {
     position: absolute;
     text-align: left;
     top: 140%;
-    left: 10%;
+    left: 10.5%;
     font-size: 1.5em;
 }
 
@@ -211,9 +152,9 @@ a:link {
 #semicolon {
     position: absolute;
     text-align: left;
-    top: 230%;
-    left: 87%;
-    font-size: 1em;
+    top: 228%;
+    left: 85.5%;
+    font-size: 1.6em;
 }
 
 #semicolonsub {
@@ -225,3 +166,155 @@ a:link {
     opacity: 0%;
 }
 
+#kings {
+    position: absolute;
+    text-align: left;
+    top: 262%;
+    left: 23.5%;
+    font-size: 1em;
+}
+
+#kingssub {
+    position: absolute;
+    top: 266%;
+    left: 21.5%;
+    width: 50px;
+    height: 30px;
+    opacity: 0%;
+}
+
+#intervenes {
+    position: absolute;
+    text-align: left;
+    top: 292%;
+    left: 62%;
+    font-size: 1.5em;
+}
+
+#intervenessub {
+    position: absolute;
+    top: 297%;
+    left: 63.5%;
+    width: 50px;
+    height: 30px;
+    opacity: 0%;
+}
+
+#speak {
+    position: absolute;
+    text-align: left;
+    top: 348%;
+    left: 87%;
+    font-size: 1em;
+}
+
+#speaksub {
+    position: absolute;
+    top: 352%;
+    left: 86%;
+    width: 50px;
+    height: 30px;
+    opacity: 0%;
+}
+
+#origins {
+    position: absolute;
+    text-align: left;
+    top: 398%;
+    left: 46.5%;
+    font-size: 1em;
+}
+
+#originssub {
+    position: absolute;
+    top: 401%;
+    left: 45%;
+    width: 50px;
+    height: 30px;
+    opacity: 0%;
+}
+
+#idea {
+    position: absolute;
+    text-align: left;
+    top: 386%;
+    left: 9.5%;
+    font-size: 1.3em;
+}
+
+#ideasub {
+    position: absolute;
+    top: 390%;
+    left: 9%;
+    width: 50px;
+    height: 30px;
+    opacity: 0%;
+}
+
+#mind {
+    position: absolute;
+    text-align: left;
+    top: 93%;
+    left: 29.7%;
+    font-size: 1.3em;
+}
+
+#mindsub {
+    position: absolute;
+    top: 97%;
+    left: 28%;
+    width: 50px;
+    height: 30px;
+    opacity: 0%;
+}
+
+#begin {
+    position: absolute;
+    text-align: left;
+    top: 118%;
+    left: 77.5%;
+    font-size: 1.3em;
+}
+
+#beginsub {
+    position: absolute;
+    top: 122%;
+    left: 76.5%;
+    width: 50px;
+    height: 30px;
+    opacity: 0%;
+}
+
+#the {
+    position: absolute;
+    text-align: left;
+    top: 429%;
+    left: 79%;
+    font-size: 1.7em;
+}
+
+#thesub {
+    position: absolute;
+    top: 435%;
+    left: 78.5%;
+    width: 50px;
+    height: 30px;
+    opacity: 0%;
+}
+
+#end {
+    position: absolute;
+    text-align: left;
+    top: 431%;
+    left: 24.2%;
+    font-size: 1.7em;
+}
+
+#endsub {
+    position: absolute;
+    top: 437%;
+    left: 23%;
+    width: 50px;
+    height: 30px;
+    opacity: 0%;
+}
