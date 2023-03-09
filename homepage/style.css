@@ -1,0 +1,75 @@
+/* font-family: "articulat-heavy-cf", sans-serif;
+font-weight: 900;
+font-style: normal; */
+
+body {
+    background-color: #FFC7E2;
+    margin-top: 0%;
+}
+
+h1{
+    color: #FF83A9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "tarif", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 3em;
+    margin: 0%;
+}
+
+#header{
+    color: #FF83A9;
+    padding-left: 1%;
+    padding-right: 1%;
+    display: flex;
+    justify-content: space-between;
+    font-family: "articulat-cf", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.buttonwrapper{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+
+.textwrap{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+
+#imagetext{
+    text-align: center;
+}
+
+#button1{
+    background-image: url(../homepage/images/1-edit.jpg);
+    width: 300px;
+    height: 300px;
+    background-size: contain;
+}
+
+#button2{
+    background-image: url(../homepage/images/2-edit.jpg);
+    width: 300px;
+    height: 300px;
+    background-size: contain;
+}
+
+#button3{
+    background-image: url(../homepage/images/classwork-edit.jpg);
+    width: 300px;
+    height: 300px;
+    background-size: contain;
+}
+
