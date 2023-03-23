@@ -39,6 +39,7 @@ li {
 
 body {
 	background-image: url("cementbckg.jpg");
+	margin-top: 10px;
 }
 
 #logo {
@@ -52,6 +53,7 @@ body {
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: row;
+	justify-content: space-around;
 	row-gap: 120px;
 }
 
@@ -69,4 +71,20 @@ p {
 	color: rgb(254, 254, 254);
 	text-align: center;
 	text-shadow: 2px 2px #ff0000;
+}
+
+#title {
+	color: rgb(0, 255, 26);
+	text-align: center;
+	text-shadow: 8px 5px 1px #ff0000;
+	font-size: 70px;
+}
+
+.under{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-around;
+	row-gap: 50px;
+	box-shadow: none;
 }
