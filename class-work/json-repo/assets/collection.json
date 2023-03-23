@@ -1,0 +1,316 @@
+[
+	{
+		"title": "dead rat",
+		"date": "sat, sep 4, 2021 9:03 am",
+		"alsoWriter" : true,
+		"image": "",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "bird lives!",
+		"date": "sat, sep 4, 2021 9:30 am",
+		"alsoWriter" : true,
+		"image": "https://lh3.googleusercontent.com/bBgQRGOTv9AttrbFVK24jfy0Kdy6i7DGlhzH8UgcuZ_yA1oeS-LDbTwPT9gC0SOP9Kc=w2400",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "calvin klein octopus",
+		"date": "sat, sep 4, 2021 5:13 pm",
+		"alsoWriter" : true,
+		"image": "https://lh4.googleusercontent.com/6PhXSXMl-QmbxL8GPLwB9il3gucjAPbC_ZBGH07B72Eyw46u8Xo5lee0O2dasOh-eGM=w2400",
+		"location": "chelsea",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "a bunch of birds",
+		"date": "sat, oct 2, 2021 5:29 pm",
+		"alsoWriter" : true,
+		"image": "",
+		"location": "nolita",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "a dog in a yellow raincoat",
+		"date": "sun, oct 10, 2021 1:22 pm",
+		"alsoWriter" : true,
+		"image": "",
+		"location": "noho",
+		"weather": "light rain"
+	},
+
+	{
+		"title": "you have great taste",
+		"date": "mon, oct 11, 2021 3:43 pm",
+		"alsoWriter" : true,
+		"image": "https://lh5.googleusercontent.com/E5Sj3AJmJe2bQLRCMlrr85s6o2SpSZ-1TIujRwE1Uf3jTwMbOsNlZtTMr-rxawEjXIk=w2400",
+		"location": "union square",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "ily",
+		"date": "thu, oct 21, 2021 5:36 pm",
+		"alsoWriter" : true,
+		"image": "https://lh5.googleusercontent.com/svTaRncQpK9AHA2hjtGYNH-0mF_rcUfV9VJ7okrS6sc8wJ7_SaLbLJUWPRuvQIZXBc0=w2400",
+		"location": "les",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "bar fight?",
+		"date": "mon, nov 1, 2021 2:46 pm",
+		"alsoWriter" : true,
+		"image": "",
+		"location": "les",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "sakura",
+		"date": "mon, nov 1, 2021 10:01 pm",
+		"alsoWriter" : true,
+		"image": "",
+		"location": "nolita",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "luke!",
+		"date": "fri, apr 15, 2022 1:05 pm",
+		"alsoWriter" : true,
+		"image": "https://lh6.googleusercontent.com/_9Ug64-M1Hekl_cM39RNtAcYeKs_hqmVlLT4fkG1JIu9IFFRt50RmhRmQlnUzFrx7-w=w2400",
+		"location": "les",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "little guy!",
+		"date": "sat, sep 17, 2022 4:08 pm",
+		"alsoWriter" : true,
+		"image": "https://lh3.googleusercontent.com/oNTz5fB836tDmnzQR_IKYmvgs6iH6zgyWjEBIL0zCsgN-ylCMn_DTQC4ne0dXTfLqfw=w2400",
+		"location": "union square",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "fight club",
+		"date": "thu, oct 6, 2022 3:43 pm",
+		"alsoWriter" : true,
+		"image": "https://lh3.googleusercontent.com/49IS9dvLnUfly-I7HkRO8HdvBzAs_ewaIFw9933r9J8GMn97Vjt8qEYocGAGddR_60w=w2400",
+		"location": "chinatown",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "fight club",
+		"date": "fri, oct 7, 2022 3:54 pm",
+		"alsoWriter" : true,
+		"image": "https://lh4.googleusercontent.com/yXkIP0tELodZ-lTf0K0gG-ic9-lmpRCKhLunlHYS3sZXLk7A5QYhfYawe8AHWudVtl0=w2400",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "fight club",
+		"date": "fri, oct 7, 2022 3:56 pm",
+		"alsoWriter" : true,
+		"image": "https://lh3.googleusercontent.com/-iGjEEa4kVQSAw55mCFL0jvaKSR1PABLPUyt_RnJaMlJwSX3nTdboPgPSW30PYk5KvM=w2400",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "fight club",
+		"date": "fri, oct 7, 2022 3:56 pm",
+		"alsoWriter" : true,
+		"image": "https://lh6.googleusercontent.com/tF6bca6qzXBvwbd4I2TN6u-nxQdKN4B_BP1mYvXJXP15OTOqCbYOY_spepe86X_3f4s=w2400",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "fight club",
+		"date": "fri, oct 7, 2022 3:56 pm",
+		"alsoWriter" : true,
+		"image": "https://lh4.googleusercontent.com/GgdR5E2bW7j3HA8rx630s5MLOcb-1gvwvzNzHo-7H14Z6ObbqW5N5Qi_ic7cDmD_yzY=w2400",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "fight club",
+		"date": "fri, oct 7, 2022 4:22 pm",
+		"alsoWriter" : true,
+		"image": "https://lh5.googleusercontent.com/-zsmvS3bP4jFnIMWe1WbLPrw9X_XUvQ_LxYkCy0Uzs0OZAFPIXRj8pVLtlRWVuPu_1s=w2400",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "dead rat",
+		"date": "mon, oct 10, 2022 12:34 am",
+		"alsoWriter" : true,
+		"image": "",
+		"location": "les",
+		"weather": "cloudy"
+	},
+
+	{
+		"title": "butterfly",
+		"date": "sat, oct 22, 2022, 5:32 pm",
+		"alsoWriter" : true,
+		"image": "https://lh4.googleusercontent.com/UnL70CBxmDZyCVd1c41Isq6xzxicf-vM2BQuYf7TrTXaNU-_PqYJzC86CwA7E5cN1DI=w2400",
+		"location": "les",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "drawings",
+		"date": "sat, nov 19, 2022, 8:24 pm",
+		"alsoWriter" : true,
+		"image": "",
+		"location": "les",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "mirror",
+		"date": "tue, nov 29, 2022 4:27 pm",
+		"alsoWriter" : true,
+		"image": "",
+		"location": "ukrainian village",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "chubby",
+		"date": "fri, dec 2, 2022 2:16 pm",
+		"alsoWriter" : true,
+		"image": "https://lh5.googleusercontent.com/err47Ima6FDOVBJrnoAd5886nfYqopIlyL0eSJonq6OcB3R4DU9E_Pd5u2WhXwpoxRg=w2400",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "chubby",
+		"date": "fri, dec 2, 2022 2:16 pm",
+		"alsoWriter" : true,
+		"image": "https://lh4.googleusercontent.com/hA4vcFVVzon_Mwqx2MTmz01POgHd3u3iIdfrnnKesMWt_lcrnL6I2HoY8EMLvR_40PA=w2400",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "flower",
+		"date": "fri, dec 2, 2022 3:12 pm",
+		"alsoWriter" : true,
+		"image": "https://lh3.googleusercontent.com/i4vxnQCA4rZNqzTRccLyqgenOWB40DvQpqbgNjBtAd1qBq3sX6DlXSRKBSDcUJA6zbs=w2400",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "harriet",
+		"date": "mon, jan 23, 2023 11:44 am",
+		"alsoWriter" : true,
+		"image": "https://lh3.googleusercontent.com/7yqZpB0szi5gWq7or22n20VO-fsxRXDUMNRxaq5vLuX8-igGKuaCC0VOB4tnKDVDIB8=w2400",
+		"location": "ukrainian village",
+		"weather": "rainy"
+	},
+
+	{
+		"title": "star",
+		"date": "fri, feb 10, 2023 7:26 pm",
+		"alsoWriter" : true,
+		"image": "",
+		"location": "nolita",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "bunny",
+		"date": "sun, feb 19, 2023 11:20 am",
+		"alsoWriter" : true,
+		"image": "https://lh6.googleusercontent.com/poZC-odfQwMsCcqddprvbUNeA99Dk_yzyCZf3r-XtcYcODv0DdEAA93qrLeZWfk2FYk=w2400",
+		"location": "les",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "a tourists lunch",
+		"date": "mon, feb 20, 2023 1:48 pm",
+		"alsoWriter" : true,
+		"image": "",
+		"location": "katz's deli",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "imy",
+		"date": "thu, feb 23, 2023 6:42 pm",
+		"alsoWriter" : true,
+		"image": "https://lh5.googleusercontent.com/5KBPDZyw7uzWwrPdZ2jlGYHmLpQOET-m8CNm94a5N_EF5UV7OHe-l4PJRdiwCmE2vdk=w2400",
+		"location": "les",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "makeshift skate obstacle",
+		"date": "thu, feb 25, 2023 2:15 pm",
+		"alsoWriter" : true,
+		"image": "",
+		"location": "downtown brooklyn",
+		"weather": "cloudy"
+	},
+
+	{
+		"title": "cum",
+		"date": "thu, mar 2, 2023 12:01 pm",
+		"alsoWriter" : true,
+		"image": "https://lh3.googleusercontent.com/SYI_jWNvBRnOFqD2zF_aIDD1BT9a_FeKtJJgpqRXLG5s9MMgvcpCm1q8rlMxmiKwZOk=w2400",
+		"location": "ukrainian village",
+		"weather": "cloudy"
+	},
+
+	{
+		"title": "star",
+		"date": "thu, mar 2, 2023 12:01 pm",
+		"alsoWriter" : true,
+		"image": "https://upload.wikimedia.org/wikipedia/en/7/73/Eyes_Wide_Shut_%281999%29.png",
+		"location": "ukrainian village",
+		"weather": "cloudy"
+	},
+
+	{
+		"title": "a+z",
+		"date": "thu, mar 2, 2023 12:03 pm",
+		"alsoWriter" : true,
+		"image": "https://lh3.googleusercontent.com/P9K5rnzlQ-2k7f21aiRXMxh65DroEO-s_U2OWOs5IuhuF0uLyNMgZ9PoZq9BJ136v60=w2400",
+		"location": "ukrainian village",
+		"weather": "cloudy"
+	},
+
+	{
+		"title": "cat",
+		"date": "sun, mar 5, 2023 1:42 pm",
+		"alsoWriter" : true,
+		"image": "https://lh3.googleusercontent.com/xtM6jmoK_Wrw45jKKzPWljkOQzeQBUpFH9uRUYeEC49sI1r2YC8IZ4ZX6Nsp6rZ2u24=w2400",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "poop",
+		"date": "sun, mar 5, 2023 2:52 pm",
+		"alsoWriter" : true,
+		"image": "https://lh6.googleusercontent.com/eHazOQCfxkXQm-4sxOVt5T-Oq5_QIOmbdPSOxuQ-FWcer4juRhmO0QdhqyPTBzXW2L0=w2400",
+		"location": "ukrainian village",
+		"weather": "sunny"
+	}
+]
