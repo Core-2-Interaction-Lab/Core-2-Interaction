@@ -1,0 +1,55 @@
+[
+	{
+		"title": "drawings",
+		"date": "sat, nov 19, 2022, 8:24 pm",
+		"alsoWriter" : true,
+		"image": "https://lh5.googleusercontent.com/TRbH_HLIAlzVySdJNHC1TGmx9DPZ8x0NPz9mD_sMdGPbIoxH9H5YRya5gRMTDjiQ0F8=w2400",
+		"location": "les",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "mirror",
+		"date": "tue, nov 29, 2022 4:27 pm",
+		"alsoWriter" : true,
+		"image": "https://lh5.googleusercontent.com/xkz2qVivt3Nf7Hjt5sWdth6RY5BadyaJUdISjzLRruSeFAJfT6JZH6gybJ0R9x7y2jQ=w2400",
+		"location": "ukrainian village",
+		"weather": "partly cloudy"
+	},
+
+	{
+		"title": "you have great taste",
+		"date": "fri, mar 10, 2023 12:05 pm",
+		"alsoWriter" : true,
+		"image": "https://lh4.googleusercontent.com/Cl6q_HjxOOdzYi2-PFn35BEoW87KnSSvoA1DajpwCY7gyRFdmGfZgCqsCltCz2kw1BM=w2400",
+		"location": "union square",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "heart",
+		"date": "fri, mar 10, 2023 12:07 pm",
+		"alsoWriter" : true,
+		"image": "https://lh6.googleusercontent.com/wVG_LigQbHn3TD8Fyoh5E9IamON_mTHdw9JH8HCmW0S4P7G1BAaWyHg-4N4F3nL0ymk=w2400",
+		"location": "union square",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "star",
+		"date": "wed, mar 22, 2023 1:07 pm",
+		"alsoWriter" : true,
+		"image": "https://lh6.googleusercontent.com/tCDDWBpwoxYIyO2JH4jMbABqgvraJ9kdfGBrzhncYhhQwRpdJL3hNLXjI7Z8pGYnnek=w2400",
+		"location": "les",
+		"weather": "sunny"
+	},
+
+	{
+		"title": "beep beep!",
+		"date": "wed, mar 22, 2023 1:14 pm",
+		"alsoWriter" : true,
+		"image": "https://lh3.googleusercontent.com/k8Z9dRTQ252FdT-OtC3o218Lyl3HqMe0bVsMo2vx06u8jUe9aVgVj9NhzJw5EmfbsdQ=w2400",
+		"location": "les",
+		"weather": "sunny"
+	}
+]

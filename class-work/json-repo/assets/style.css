@@ -216,8 +216,8 @@ p {
 }
 
 #dove {
-	margin-top: 134.556vw;
-    margin-left: 12.153vw;
+	margin-top: 160.556vw;
+    margin-left: 23.153vw;
     width: 13.889vw;
 	position: absolute;
 	z-index: -3;
@@ -258,7 +258,7 @@ p {
 }
 
 #carspin {
-    margin-top: 257.556vw;
+	margin-top: 278.556vw;
     margin-left: 57.153vw;
     width: 35.556vw;
     rotate: 16deg;
@@ -382,8 +382,8 @@ p {
 }
 
 #moonbeam {
-	margin-top: 747.111vw;
-    margin-left: 18.264vw;
+	margin-top: 593.111vw;
+    margin-left: 69.264vw;
 	width: 19.097vw;
 	rotate: -23deg;
 	position: absolute;
@@ -393,7 +393,7 @@ p {
 }
 
 #sham {
-	margin-top: 806.333vw;
+	margin-top: 424.33299999999997vw;
     margin-left: 53.889vw;
     width: 19.097vw;
     rotate: 23deg;
@@ -404,8 +404,8 @@ p {
 }
 
 #butfast {
-	margin-top: 821.778vw;
-    margin-left: 1.389vw;
+	margin-top: 238.77800000000002vw;
+    margin-left: 16.388999999999996vw;
     width: 8.125vw;
     rotate: 23deg;
 	position: absolute;
@@ -415,9 +415,9 @@ p {
 }
 
 #coolstar {
-	margin-top: 848.444vw;
-    margin-left: 5.764vw;
-    width: 56.528vw;
+	margin-top: 475.44399999999996vw;
+    margin-left: 71.764vw;
+    width: 16.528vw;
     rotate: 10deg;
 	position: absolute;
 	z-index: -3;
@@ -426,7 +426,7 @@ p {
 }
 
 #sexygirl {
-	margin-top: 945.667vw;
+	margin-top: 630.667vw;
     margin-left: 56.528vw;
     width: 23.056vw;
 	position: absolute;
@@ -436,9 +436,9 @@ p {
 }
 
 #unicorn {
-	margin-top: 976.778vw;
-    margin-left: 3.819vw;
-    width: 45.139vw;
+	margin-top: 549.778vw;
+    margin-left: 5.819000000000003vw;
+    width: 26.139000000000003vw;
 	position: absolute;
 	z-index: -3;
     height: auto;
@@ -446,9 +446,9 @@ p {
 }
 
 #worldpeace {
-	margin-top: 1051.444vw;
-    margin-left: 49.514vw;
-    width: 45.139vw;
+	margin-top: 354.44399999999996vw;
+    margin-left: 59.514vw;
+	width: 10.139000000000003vw;
 	position: absolute;
 	z-index: -3;
     height: auto;
@@ -459,47 +459,6 @@ p {
 	margin-top: 1127.556vw;
     margin-left: 19.583vw;
     width: 10.069vw;
-	position: absolute;
-	z-index: -3;
-    height: auto;
-	box-shadow: none;
-}
-
-#shawty {
-	margin-top: 1177.778vw;
-    margin-left: 10.625vw;
-    width: 72.639vw;
-	rotate: 20deg;
-	position: absolute;
-	z-index: -3;
-    height: auto;
-	box-shadow: none;
-}
-
-#star2 {
-	margin-top: 1241.556vw;
-    margin-left: 4.514vw;
-    width: 9.236vw;
-	position: absolute;
-	z-index: -3;
-    height: auto;
-	box-shadow: none;
-}
-
-#redheart {
-	margin-top: 1248.889vw;
-    margin-left: 50.486vw;
-    width: 13.542vw;
-	position: absolute;
-	z-index: -3;
-    height: auto;
-	box-shadow: none;
-}
-
-#flowerbloom {
-	margin-top: 1291.222vw;
-    margin-left: 13.681vw;
-    width: 37.222vw;
 	position: absolute;
 	z-index: -3;
     height: auto;
