@@ -1,32 +1,5 @@
 [
 	{
-		"title": "heart flower",
-		"date": "fri, aug 13, 2021 7:08 pm",
-		"alsoWriter" : true,
-		"image": "https://lh6.googleusercontent.com/coKURQRCpNgLHPRB1OG6Ddoau4pN2OPf5GYkYCzAm_RLbVwfUnxk98l5Xql2Qpugvuo=w2400",
-		"location": "central park",
-		"weather": "clear"
-	},
-
-	{
-		"title": "a dog in shoes",
-		"date": "fri, aug 20, 2021 6:49 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/ndAu7ivHYK2TShf9Lc1vBXS7yg3Qu-QvNnwqOc_BTLIuVtmsYcvBsXAVjHkudilFHNU=w2400",
-		"location": "seaport",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "dead rat",
-		"date": "sat, sep 4, 2021 9:03 am",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/bJyDhgkNB5IAJiwMqK8Xqe7V7KevWrblfnEAD6vBQvWVy5m7ClmjDMnRWAEv04jmKho=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
 		"title": "bird lives!",
 		"date": "sat, sep 4, 2021 9:30 am",
 		"alsoWriter" : true,
@@ -45,164 +18,11 @@
 	},
 
 	{
-		"title": "a bunch of birds",
-		"date": "sat, oct 2, 2021 5:29 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/3qTZpAIknU2EjKJwjEp8MTg0FaVQ_v1nG8VoP9ut6fHp2beZcMCkjf079Q2-AF3ER1U=w2400",
-		"location": "nolita",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "a dog in a yellow raincoat",
-		"date": "sun, oct 10, 2021 1:22 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/_TNgApYbLPlnzW1wEEXskGuZ03XcKoVm2XKhwYDp1Az-oj1mPVK0pzETQ9YOuhyWY3g=w2400",
-		"location": "noho",
-		"weather": "light rain"
-	},
-
-	{
-		"title": "you have great taste",
-		"date": "mon, oct 11, 2021 3:43 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/E5Sj3AJmJe2bQLRCMlrr85s6o2SpSZ-1TIujRwE1Uf3jTwMbOsNlZtTMr-rxawEjXIk=w2400",
-		"location": "union square",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "ily",
-		"date": "thu, oct 21, 2021 5:36 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/svTaRncQpK9AHA2hjtGYNH-0mF_rcUfV9VJ7okrS6sc8wJ7_SaLbLJUWPRuvQIZXBc0=w2400",
-		"location": "les",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "bar fight?",
-		"date": "mon, nov 1, 2021 2:46 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/DBd_FyVchYUn4I7rt_k_rLMefPDKHbP0PIbjz7B-ogiIdgRTNGkAQbVZALcE7K4FZ0Q=w2400",
-		"location": "les",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "sakura",
-		"date": "mon, nov 1, 2021 10:01 pm",
-		"alsoWriter" : true,
-		"image": "https://lh6.googleusercontent.com/OdvBH3snXrXDWWOtozkIWlspIBNdMdUHVYaZD39FRZuOoVFICTx4HcDijlZkhuuZSh4=w2400",
-		"location": "nolita",
-		"weather": "partly cloudy"
-	},
-
-	{
 		"title": "luke!",
 		"date": "fri, apr 15, 2022 1:05 pm",
 		"alsoWriter" : true,
 		"image": "https://lh6.googleusercontent.com/_9Ug64-M1Hekl_cM39RNtAcYeKs_hqmVlLT4fkG1JIu9IFFRt50RmhRmQlnUzFrx7-w=w2400",
 		"location": "les",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "little guy",
-		"date": "sat, sep 17, 2022 4:08 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/oNTz5fB836tDmnzQR_IKYmvgs6iH6zgyWjEBIL0zCsgN-ylCMn_DTQC4ne0dXTfLqfw=w2400",
-		"location": "union square",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "fight club",
-		"date": "thu, oct 6, 2022 3:43 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/49IS9dvLnUfly-I7HkRO8HdvBzAs_ewaIFw9933r9J8GMn97Vjt8qEYocGAGddR_60w=w2400",
-		"location": "chinatown",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "fight club",
-		"date": "fri, oct 7, 2022 3:54 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/yXkIP0tELodZ-lTf0K0gG-ic9-lmpRCKhLunlHYS3sZXLk7A5QYhfYawe8AHWudVtl0=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "fight club",
-		"date": "fri, oct 7, 2022 3:56 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/-iGjEEa4kVQSAw55mCFL0jvaKSR1PABLPUyt_RnJaMlJwSX3nTdboPgPSW30PYk5KvM=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "fight club",
-		"date": "fri, oct 7, 2022 3:56 pm",
-		"alsoWriter" : true,
-		"image": "https://lh6.googleusercontent.com/tF6bca6qzXBvwbd4I2TN6u-nxQdKN4B_BP1mYvXJXP15OTOqCbYOY_spepe86X_3f4s=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "fight club",
-		"date": "fri, oct 7, 2022 3:56 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/GgdR5E2bW7j3HA8rx630s5MLOcb-1gvwvzNzHo-7H14Z6ObbqW5N5Qi_ic7cDmD_yzY=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "fight club",
-		"date": "fri, oct 7, 2022 4:22 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/-zsmvS3bP4jFnIMWe1WbLPrw9X_XUvQ_LxYkCy0Uzs0OZAFPIXRj8pVLtlRWVuPu_1s=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "dead rat",
-		"date": "mon, oct 10, 2022 12:34 am",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/iMgfCc9ig5K9dO4Sv8w65Ylc4djjCK7XMDrBB-CW0ML1fxYfBzDEWK3Uxc1VkJHAtWo=w2400",
-		"location": "les",
-		"weather": "cloudy"
-	},
-
-	{
-		"title": "butterfly",
-		"date": "sat, oct 22, 2022, 5:32 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/UnL70CBxmDZyCVd1c41Isq6xzxicf-vM2BQuYf7TrTXaNU-_PqYJzC86CwA7E5cN1DI=w2400",
-		"location": "les",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "drawings",
-		"date": "sat, nov 19, 2022, 8:24 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/TRbH_HLIAlzVySdJNHC1TGmx9DPZ8x0NPz9mD_sMdGPbIoxH9H5YRya5gRMTDjiQ0F8=w2400",
-		"location": "les",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "mirror",
-		"date": "tue, nov 29, 2022 4:27 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/xkz2qVivt3Nf7Hjt5sWdth6RY5BadyaJUdISjzLRruSeFAJfT6JZH6gybJ0R9x7y2jQ=w2400",
-		"location": "ukrainian village",
 		"weather": "partly cloudy"
 	},
 
@@ -225,15 +45,6 @@
 	},
 
 	{
-		"title": "flower",
-		"date": "fri, dec 2, 2022 3:12 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/i4vxnQCA4rZNqzTRccLyqgenOWB40DvQpqbgNjBtAd1qBq3sX6DlXSRKBSDcUJA6zbs=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
 		"title": "harriet",
 		"date": "mon, jan 23, 2023 11:44 am",
 		"alsoWriter" : true,
@@ -243,64 +54,10 @@
 	},
 
 	{
-		"title": "star",
-		"date": "fri, feb 10, 2023 7:26 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/j6O951YNneDRBlTWkx6qtalEwfKED9vQDiRjtp5sltN-EKHJiMuoDRjlc2Wr2mxDCNk=w2400",
-		"location": "nolita",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "bunny",
-		"date": "sun, feb 19, 2023 11:20 am",
-		"alsoWriter" : true,
-		"image": "https://lh6.googleusercontent.com/poZC-odfQwMsCcqddprvbUNeA99Dk_yzyCZf3r-XtcYcODv0DdEAA93qrLeZWfk2FYk=w2400",
-		"location": "les",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "a tourists lunch",
-		"date": "mon, feb 20, 2023 1:48 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/hp84J_HOXArkrI3ZabOc78RRNRHQfUQXKUXQ9aIjRKcYKQqu2xAOag5RABQ5mCdsF34=w2400",
-		"location": "katz's deli",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "imy",
-		"date": "thu, feb 23, 2023 6:42 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/5KBPDZyw7uzWwrPdZ2jlGYHmLpQOET-m8CNm94a5N_EF5UV7OHe-l4PJRdiwCmE2vdk=w2400",
-		"location": "les",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "makeshift skate obstacle",
-		"date": "thu, feb 25, 2023 2:15 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/CdMVRcWaLfikOR4E6EUxXfk7b_Ri5wH5DIaBI_SdvQoFh_Dg_0RiwPZ2eRrPe_RKNHw=w2400",
-		"location": "downtown brooklyn",
-		"weather": "cloudy"
-	},
-
-	{
 		"title": "cum",
 		"date": "thu, mar 2, 2023 12:01 pm",
 		"alsoWriter" : true,
 		"image": "https://lh3.googleusercontent.com/AGo8mJUO_xgjkqaQyW4k_ty2TcrNC9jxDbnx480OLn0QX_xUhkJA1AY-y_i1e5oWI2A=w2400",
-		"location": "ukrainian village",
-		"weather": "cloudy"
-	},
-
-	{
-		"title": "star",
-		"date": "thu, mar 2, 2023 12:01 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/SYI_jWNvBRnOFqD2zF_aIDD1BT9a_FeKtJJgpqRXLG5s9MMgvcpCm1q8rlMxmiKwZOk=w2400",
 		"location": "ukrainian village",
 		"weather": "cloudy"
 	},
@@ -315,29 +72,11 @@
 	},
 
 	{
-		"title": "cat",
-		"date": "sun, mar 5, 2023 1:42 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/xtM6jmoK_Wrw45jKKzPWljkOQzeQBUpFH9uRUYeEC49sI1r2YC8IZ4ZX6Nsp6rZ2u24=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
 		"title": "poop",
 		"date": "sun, mar 5, 2023 2:52 pm",
 		"alsoWriter" : true,
 		"image": "https://lh6.googleusercontent.com/eHazOQCfxkXQm-4sxOVt5T-Oq5_QIOmbdPSOxuQ-FWcer4juRhmO0QdhqyPTBzXW2L0=w2400",
 		"location": "ukrainian village",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "bunny",
-		"date": "mon, mar 6, 2023 2:12 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/0SSmIUPeJdgNojr6jMyPhhbbCMR49Ql4Hh7lrrNtXj11XAjFOs87XlqIUGye8V-miKo=w2400",
-		"location": "astor place",
 		"weather": "sunny"
 	},
 
@@ -351,56 +90,11 @@
 	},
 
 	{
-		"title": "peso neto",
-		"date": "tue, mar 7, 2023 12:32 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/C3tLfAEHe76HawxA_LJyedQxaD-O72gyzN--lKseQBVOjx0htkWWVgb6Q_juRLcJTZw=w2400",
-		"location": "ukrainian village",
-		"weather": "sunny"
-	},
-
-	{
 		"title": "iggy",
 		"date": "tue, mar 7, 2023 12:34 pm",
 		"alsoWriter" : true,
 		"image": "https://lh5.googleusercontent.com/vpeDk40Fu_MStCpXaqy8lthcP1BhlFOYp8UML2clEAueft1F0o8M8hsOwmUi178tqds=w2400",
 		"location": "ukrainian village",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "little lemon lookin guy",
-		"date": "tue, mar 7, 2023 12:39 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/6RvLZ9_20c13XjouJJ_0qt38eYlpt3FMFrcPaphGruhfn363sSOr7maWhz4JlpMJghc=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "overpopulation crisis",
-		"date": "tue, mar 7, 2023 12:44 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/Yl50MAQ3-eA033p_BIyIWD7uxuFL8LNoknzvcMYzyx-bQNOC9MNZSUjEoJNky_rpWG4=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "portrait",
-		"date": "tue, mar 7, 2023 2:01 pm",
-		"alsoWriter" : true,
-		"image": "https://lh6.googleusercontent.com/IJ6OyUaf1AKaxDR7A2vsSZKtP_-z2TwkqMgt0NKW5ueJc7RcsvIsZpEL2IWSVDinpIM=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "hand + heart",
-		"date": "tue, mar 7, 2023 2:10 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/IQI6JsHz07mPj7jQpg_A6zKTFfD_yHVUBCSTIfuISVtogXM0f4znD2AzcjvP93N4znY=w2400",
-		"location": "les",
 		"weather": "sunny"
 	},
 
@@ -414,39 +108,12 @@
 	},
 
 	{
-		"title": "you have great taste",
-		"date": "fri, mar 10, 2023 12:05 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/Cl6q_HjxOOdzYi2-PFn35BEoW87KnSSvoA1DajpwCY7gyRFdmGfZgCqsCltCz2kw1BM=w2400",
-		"location": "union square",
-		"weather": "sunny"
-	},
-
-	{
 		"title": "heart",
 		"date": "fri, mar 10, 2023 12:07 pm",
 		"alsoWriter" : true,
 		"image": "https://lh6.googleusercontent.com/wVG_LigQbHn3TD8Fyoh5E9IamON_mTHdw9JH8HCmW0S4P7G1BAaWyHg-4N4F3nL0ymk=w2400",
 		"location": "union square",
 		"weather": "sunny"
-	},
-
-	{
-		"title": "portrait",
-		"date": "sun, mar 12, 2023 9:30 pm",
-		"alsoWriter" : true,
-		"image": "https://lh6.googleusercontent.com/umAGinUj6qx44pU4lGADyHyg9_gTKoALKumF4bH7A-FIB8LRmi7o24bLiGUmJpEQN2k=w2400",
-		"location": "williamsburg",
-		"weather": "partly cloudy"
-	},
-
-	{
-		"title": "portrait",
-		"date": "sun, mar 12, 2023 9:42 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/DtT0onKpXs6M95--1A7PRHeNQQyjDRq9bvanDG1y_rfIYAAxQl1CV03ukzGlJnfhxT0=w2400",
-		"location": "east village",
-		"weather": "partly cloudy"
 	},
 
 	{
@@ -468,84 +135,12 @@
 	},
 
 	{
-		"title": "bunny",
-		"date": "thu, mar 16, 2023 12:33 pm",
-		"alsoWriter" : true,
-		"image": "https://lh6.googleusercontent.com/IgQ8oZCqaqdMKU3_hxB3TllkcbW88BxYIyjh8lVQ_oJ1vLY8PY1INapqpFI2TkZhYuM=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "ily forever",
-		"date": "thu, mar 16, 2023 12:36 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/P1h7YnJR3DZbeFQwCbgOb2Zdzhzw7sNCGIk0qmECBL0bCWyKFWByIVZdkvm7zfdzHvU=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "lethal",
-		"date": "thu, mar 16, 2023 12:36 pm",
-		"alsoWriter" : true,
-		"image": "https://lh5.googleusercontent.com/QqpIGdJ0hNnPjjWX1XQ6Q9J6kdrC4-hgN54C44hzKtKiNTm6sxLuYRImALL7gVBW2JE=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
 		"title": "e.t. X fight club",
 		"date": "thu, mar 16, 2023 12:37 pm",
 		"alsoWriter" : true,
 		"image": "https://lh6.googleusercontent.com/WdL0fzGA8xvCHjnorrDOC5sbLBJNvRpXeTeyGkZEfNdZ2fzv3LIqOCiB1eumlW-0KqA=w2400",
 		"location": "les",
 		"weather": "sunny"
-	},
-
-	{
-		"title": "imy",
-		"date": "thu, mar 16, 2023 2:44 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/vsCFIEjDXEKXLZO0IVny0rxcnsWfHHBC0xMiV7WfYCAq0mGTALU91UL7jaolYTEcinI=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "uuuu fuckin fuck",
-		"date": "thu, mar 16, 2023 5:00 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/SgBIggie0WB5i7p-b9_05jKLaA9o2P2zbzb1mLET6075G0aGm-0UtBhZz6cGJIemHgI=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "bunny",
-		"date": "sat, mar 18, 2023 9:04 pm",
-		"alsoWriter" : true,
-		"image": "https://lh6.googleusercontent.com/b8_KGJcL4BEf-b8uj0nDIBUt6EFxbwV_7_iern2nH8gj9zNCCeoIuNAV_zztqAiZQtU=w2400",
-		"location": "east village",
-		"weather": "clear"
-	},
-
-	{
-		"title": "little sticker",
-		"date": "sun, mar 19, 2023 4:03 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/-5hhKapgPQ3a9fWe8f9--EllpSJXdx-A4vc0D-2e8cwWwn_Z83FhlGvisC3sUcTgmko=w2400",
-		"location": "east village",
-		"weather": "clear"
-	},
-
-	{
-		"title": "monkey guy",
-		"date": "mon, mar 20, 2023 12:04 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/IRJbmt4yw4x8GoLdZsk4ltZDgME-lTrpGvBMaNnh3fFiC8rRpFb5QcrU5i1nDWYY0W4=w2400",
-		"location": "union square",
-		"weather": "clear"
 	},
 
 	{
@@ -558,15 +153,6 @@
 	},
 
 	{
-		"title": "dead pigeon",
-		"date": "mon, mar 20, 2023 6:10 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/hvKKHEF82DgvtcElK1vHSqbnr55iDGXSlfIDZwhooGSAS-04o9R6NAz5j8MLlWU-nfg=w2400",
-		"location": "alphabet city",
-		"weather": "sunny"
-	},
-
-	{
 		"title": "danny boy",
 		"date": "mon, mar 20, 2023 6:18 pm",
 		"alsoWriter" : true,
@@ -576,56 +162,11 @@
 	},
 
 	{
-		"title": "sex pays",
-		"date": "mon, mar 20, 2023 6:27 pm",
-		"alsoWriter" : true,
-		"image": "https://lh6.googleusercontent.com/YwPDr-l_AWgQyF2fg01kiEcDSJMPRDwaANobs6ub7hbmvuHKE1vOre0Gv_yWVRw88To=w2400",
-		"location": "east village",
-		"weather": "sunny"
-	},
-
-	{
-		"title": ";)",
-		"date": "mon, mar 20, 2023 6:31 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/D9MQ-F2hnWxjjjOk_d7qbIbMxRr1trDbZXl0MU5DHGNX66HZ80uqOznGg6PZn-AuObg=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
 		"title": "moon/nick",
 		"date": "tue, mar 21, 2023 12:12 pm",
 		"alsoWriter" : true,
 		"image": "https://lh3.googleusercontent.com/I8KcIiNHebw7EouRE_NtWVW9QiAfnL4720uCCItQkvgSzePoEUapUIZ4LAzL_E0bAkM=w2400",
 		"location": "williamsburg",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "a vegans lunch",
-		"date": "tue, mar 21, 2023 5:23 pm",
-		"alsoWriter" : true,
-		"image": "https://lh4.googleusercontent.com/7zFGVaxUZZcjdr-uxBAnf4cyL3o0R6_lU6sGAJoBaaSABj35rOxX4SX0OqaXnDe1bas=w2400",
-		"location": "union square",
-		"weather": "clear"
-	},
-
-	{
-		"title": "star",
-		"date": "wed, mar 22, 2023 1:07 pm",
-		"alsoWriter" : true,
-		"image": "https://lh6.googleusercontent.com/tCDDWBpwoxYIyO2JH4jMbABqgvraJ9kdfGBrzhncYhhQwRpdJL3hNLXjI7Z8pGYnnek=w2400",
-		"location": "les",
-		"weather": "sunny"
-	},
-
-	{
-		"title": "beep beep!",
-		"date": "wed, mar 22, 2023 1:14 pm",
-		"alsoWriter" : true,
-		"image": "https://lh3.googleusercontent.com/k8Z9dRTQ252FdT-OtC3o218Lyl3HqMe0bVsMo2vx06u8jUe9aVgVj9NhzJw5EmfbsdQ=w2400",
-		"location": "les",
 		"weather": "sunny"
 	}
 ]
