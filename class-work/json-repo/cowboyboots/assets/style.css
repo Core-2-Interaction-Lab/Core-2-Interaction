@@ -38,6 +38,8 @@ li {
 body {
 	background-image: url("cementbckg.jpg");
 	margin-top: 10px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 #logo {
