@@ -459,13 +459,3 @@ p {
     height: auto;
 	box-shadow: none;
 }
-
-#broken {
-	margin-top: 1127.556vw;
-    margin-left: 19.583vw;
-    width: 10.069vw;
-	position: absolute;
-	z-index: -3;
-    height: auto;
-	box-shadow: none;
-}
