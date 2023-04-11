@@ -6,11 +6,13 @@ body {
 	font-family: sans-serif;
 	padding: var(--spacing);
 	padding-bottom: 33vh;
+	cursor: url("../assets/gif/coolstargreen.gif"), default;
 }
 
 aside { margin-bottom: calc(4 * var(--spacing)); }
 
-h1 { font-size: 200%; }
+h1 { font-size: 200%; 
+}
 
 h2 { 
 	color: rgb(254, 254, 254);
