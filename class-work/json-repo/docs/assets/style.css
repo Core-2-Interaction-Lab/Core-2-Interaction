@@ -6,6 +6,7 @@ body {
 	font-family: sans-serif;
 	padding: var(--spacing);
 	padding-bottom: 33vh;
+	cursor: url("../assets/gif/coolstargreen.gif"), default;
 }
 
 aside { margin-bottom: calc(4 * var(--spacing)); }

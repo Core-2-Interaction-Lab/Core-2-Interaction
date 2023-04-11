@@ -40,6 +40,7 @@ body {
 	margin-top: 10px;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	cursor: url("../assets/gif/coolstargreen.gif"), default;
 }
 
 #logo {
