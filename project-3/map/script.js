@@ -96,3 +96,72 @@ const playWithData = data => {
 		})
 	})
 }
+
+///////////////////////////////////////////////////////////////
+// Function to render your items
+const renderItems = (mydata) => {
+    // The `ul` where the items will be inserted
+    const mydataList = document.getElementById('mydata')
+
+
+    // Loop through each item in mydata array
+    mydata.forEach(item => {
+        const listItem = document.createElement('li') // Make the `li`
+
+
+        // This can get annoying, so we can use “template literals” instead
+        const itemDetails =
+            `
+			<p>#${item.uniqueid}</p>
+            <p><time>${formatDate(item.dateofbite)}</time></p>
+					<div class="breed">${item.breed}</div>
+			`
+        listItem.insertAdjacentHTML('beforeend', itemDetails) // Which can we then insert
+
+        // You can build logic from your data, too
+        if (!item.spayneuter) { // If this is `false`
+            listItem.classList.add('alert') // Add this class to the whole `li`
+        }
+
+        mydataList.appendChild(listItem) // Then add the whole `li` into the `ul`
+    })
+
+  // Simple function to get a count of the number of items in mydata. Could also use `mydata.length`
+  const totalStat = document.getElementById('count')
+  totalStat.textContent = `${mydata.length}`
+
+   // Function to get a count of the number of items in mydata that have a specific value for a given key
+   function findBestBorough(mydata) {
+	// Create an object to hold the counts of each breed
+	const boroughCounts = {};
+
+	// Loop through each item in the data array
+	mydata.forEach(item => {
+		// Retrieve the breed for the current item
+		const borough = item.Borough;
+
+		// If the breed is not undefined or null, increment its count in the boroughCounts object
+		if (borough) {
+			boroughCounts[borough] = (boroughCounts[borough] || 0) + 1;
+		}
+	});
+
+	// Find the breed with the highest count
+	let mostCommonBorough = null;
+	let highestCount = 0;
+
+	Object.entries(boroughCounts).forEach(([borough, count]) => {
+		if (count > highestCount) {
+			mostCommonBorough = borough;
+			highestCount = count;
+		}
+	});
+
+	// Return the most common breed
+	return mostCommonBorough;
+}
+
+// ... and then render it to the page
+const topBorough = document.getElementById('topborough')
+topBorough.textContent = findBestBorough(mydata);
+}
