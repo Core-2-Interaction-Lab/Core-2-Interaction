@@ -190,13 +190,60 @@ p {
 	justify-content: center;
 }
 
+#why {
+    font-weight: 100;
+    text-align: center;
+}
+
 #DEP {
 	font-weight: 100;
 	text-align: center;
 	font-size: 14px;
 }
 
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+    max-width: 80vw;
+}
+
+.grid-item {
+    position: relative;
+    padding-top: 100%;
+    background-color: peachpuff;
+    border-radius: 20%;
+}
+
+.statistic {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    bottom: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 400%;
+    color: tomato;
+}
+
+.label {
+    position: absolute;
+    bottom: 2em;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+    color: tomato;
+}
+
 #map {
 	width: 100px;
 	height: 100px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
 }

@@ -94,9 +94,5 @@ const playWithData = data => {
 			lastPopupMessage = popupContent;
 			popupContent.open(map, marker);			
 		})
-
-
-
 	})
-
 }
