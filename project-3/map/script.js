@@ -72,7 +72,8 @@ const playWithData = data => {
 
 		let popupMessage = `
 			<ul>
-				
+				<li>Address: ${location.Address}</li>
+				<li>Borough: ${location.Borough}</li>
 			<ul>
 		`;
 
