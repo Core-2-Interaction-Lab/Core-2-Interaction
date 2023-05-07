@@ -177,3 +177,39 @@ p {
 	font-weight: 900;
 }
 
+#reviews {
+    background-color:#7B7C7F;
+}
+
+.slidecontent{
+    padding-left: 20px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    column-gap: 30vw;
+    padding-top: 20px;
+}
+
+.mySlides {display:none;}
+
+#header {
+    text-align: center;
+	font-weight: 900;
+    font-size: 80px;
+}
+
+.alltext {
+    max-width: 60vw;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 8vw;
+    align-items: center;
+    font-size: 50px;
+    font-weight: 100;
+    transition: ;
+}
+

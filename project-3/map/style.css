@@ -183,6 +183,10 @@ p {
 	font-weight: 900;
 }
 
+#details {
+    background-color:#7B7C7F;
+}
+
 #instructions {
 	font-weight: 100;
 	display: flex;
@@ -214,7 +218,6 @@ p {
 .grid-item {
     position: relative;
     padding-top: 100%;
-    background-color: #0058B2;
     background-color: #7B7C7F;
     box-shadow: 8px 8px 5px #00152b;
     border-radius: 20%;
@@ -277,3 +280,87 @@ p {
 #bestb {
     font-size: 50px;
 }
+
+#total {
+    font-weight: 100;
+}
+
+#number {
+    font-weight: 900;
+    font-size: 100px;
+}
+
+#man {
+    font-weight: 900;
+    font-size: 45px;
+    max-width: 14vw;
+}
+
+.allflips {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 30px;
+}
+
+.flip-card {
+    max-width: 25vw;
+}
+
+/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-card {
+    background-color: transparent;
+    border: 1px solid #f1f1f1;
+    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+    width: 30vw;
+    height: 25vw;
+  }
+  
+  /* This container is needed to position the front and back side */
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  
+  /* Do an horizontal flip when you move the mouse over the flip box container */
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  /* Position the front and back side */
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Style the front side (fallback if image is missing) */
+  .flip-card-front {
+    background-color: #7B7C7F;
+    box-shadow: 8px 8px 5px #00152b;
+    border-radius: 20%;
+    max-width: 30vw;
+    max-height: 30vw;
+  }
+  
+  /* Style the back side */
+  .flip-card-back {
+    background-color:#0058B2;
+    box-shadow: 8px 8px 5px #00152b;
+    border-radius: 20%;
+    max-width: 30vw;
+    max-height: 30vw;
+    color: white;
+    font-weight: 900;
+    font-size: 50px;
+    transform: rotateY(180deg);
+  }

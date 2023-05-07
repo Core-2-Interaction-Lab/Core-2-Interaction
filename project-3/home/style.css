@@ -107,6 +107,10 @@ body {
     display: inline-block;
 }
 
+#home {
+    background-color:#7B7C7F;
+}
+
 #light {
     font-size: 87px;
     font-weight: 100;
