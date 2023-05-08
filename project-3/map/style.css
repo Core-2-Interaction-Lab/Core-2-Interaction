@@ -304,10 +304,15 @@ p {
     align-items: center;
     justify-content: center;
     column-gap: 30px;
+    padding-left: 90px;
 }
 
 .flip-card {
-    max-width: 25vw;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+    max-width: 80vw;
+    margin: auto;
 }
 
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */

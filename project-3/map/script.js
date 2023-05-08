@@ -164,3 +164,4 @@ const renderItems = (mydata) => {
 const topBorough = document.getElementById('topborough')
 topBorough.textContent = findBestBorough(mydata);
 }
+
