@@ -97,7 +97,6 @@ const playWithData = data => {
 	})
 }
 
-///////////////////////////////////////////////////////////////
 // Function to render your items
 const renderItems = (mydata) => {
     // The `ul` where the items will be inserted

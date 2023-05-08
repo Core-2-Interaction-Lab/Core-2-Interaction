@@ -220,7 +220,7 @@ p {
     padding-top: 100%;
     background-color: #7B7C7F;
     box-shadow: 8px 8px 5px #00152b;
-    border-radius: 20%;
+    /* border-radius: 20%; */
 }
 
 .statistic {
@@ -283,17 +283,20 @@ p {
 
 #total {
     font-weight: 100;
+    font-size: 3.472vw;
 }
 
 #number {
     font-weight: 900;
     font-size: 100px;
+    font-size: 6.944vw;
 }
 
 #man {
     font-weight: 900;
     font-size: 45px;
     max-width: 14vw;
+    font-size: 3.472vw;
 }
 
 .allflips {
@@ -347,7 +350,7 @@ p {
   .flip-card-front {
     background-color: #7B7C7F;
     box-shadow: 8px 8px 5px #00152b;
-    border-radius: 20%;
+    /* border-radius: 20%; */
     max-width: 30vw;
     max-height: 30vw;
   }
@@ -356,11 +359,11 @@ p {
   .flip-card-back {
     background-color:#0058B2;
     box-shadow: 8px 8px 5px #00152b;
-    border-radius: 20%;
+    /* border-radius: 20%; */
     max-width: 30vw;
     max-height: 30vw;
     color: white;
     font-weight: 900;
-    font-size: 50px;
+    font-size: 1em;
     transform: rotateY(180deg);
   }
