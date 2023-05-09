@@ -303,8 +303,10 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-    column-gap: 30px;
-    padding-left: 90px;
+    column-gap: 20px;
+    /* padding-left: 90px; */
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .flip-card {
@@ -318,7 +320,7 @@ p {
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
     background-color: transparent;
-    border: 1px solid #f1f1f1;
+    /* border: 1px solid #f1f1f1; */
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
     width: 30vw;
     height: 25vw;
@@ -371,4 +373,11 @@ p {
     font-weight: 900;
     font-size: 1em;
     transform: rotateY(180deg);
+    font-size: 3.472vw;
+  }
+
+  @media only screen and (max-width: 768px) {
+    #logo {
+        display: none;
+    }
   }

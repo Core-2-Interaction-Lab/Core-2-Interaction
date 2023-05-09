@@ -7,6 +7,7 @@ body {
 }
 
 #logo {
+    display: inline-block;
     width: 150px;
     height: auto;
     padding-left: 15px;
@@ -93,11 +94,58 @@ body {
     transition: .4s;
 }
 
+@media only screen and (max-width: 768px) {
+    .nav {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      margin: 0%;
+      width: 20%;
+      margin-top: 25px;
+      margin-left: -30px;
+      margin-right: 20px;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(4, 1fr);
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    #man {
+      display: none;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .text {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 20px;
+      margin-top: 300px;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    #logo {
+      display: none;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    #promise {
+
+    }
+  }
+
 .text {
     padding-left: 20px;
     padding-top: 50px ;
     width: 60%;
-    display: inline-block;
+    display: block;
     float: left;
 }
 
@@ -131,10 +179,12 @@ u:hover {
 }
 
 #man {
-    position: absolute;
+    position: relative;
     height: 700px;
     max-width: 10000px;
-    padding-left: 380px;
+    margin-left: 880px;
+    max-width: 30%;
+    height: auto;
 }
 
 /* unvisited link */
